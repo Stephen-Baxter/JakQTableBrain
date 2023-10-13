@@ -24,4 +24,4 @@
    Holds the discount factor that UpdateQTable uses to update the qTable
 
 ## License
-+ MIT License
+- MIT License
