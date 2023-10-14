@@ -13,6 +13,7 @@
    - 
    1. jk
    2. klj
+      - j
 4. ResetQTable(alpha_ = this.alpha, gamma_ = this.gamma):  
    f
 
