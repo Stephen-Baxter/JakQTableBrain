@@ -10,7 +10,7 @@
    f
 3. UpdateQTable(reward_1_, state_0_, action_0_, state_1_):  
    - hjkh
-   - 
+   - k
    1. jk
    2. klj
       - j
