@@ -12,7 +12,8 @@
    1. hjkh
    2. k
    1. jk
-   2. klj
+      1. g
+   3. klj
 
 4. ResetQTable(alpha_ = this.alpha, gamma_ = this.gamma):  
    f
@@ -30,3 +31,4 @@
 ## License
 - MIT License
   - h
+
