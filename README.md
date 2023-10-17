@@ -3,7 +3,7 @@
 
 > [Demonstration](https://stephen-baxter.github.io/#AI_DEMONSTRATION_PAGE_)
 ## Class
-1. JQTBrain(number_of_states_, number_of_actions_, alpha_, gamma_, q_table_ = []):
+1. JQTBrain(number_of_states_, number_of_actions_, alpha_, gamma_, q_table_ = []):  
    Initializing this class will initialize 2D array for the Q-table, alpha value, and gamma value. The parameters number_of_states_, number_of_actions_, alpha_, and gamma_ are numbers. If a 2D array of numbers with column length equal to number_of_actions_ and row length equal to number_of_states_ is given for q_table_ then q_table_ will be use for the Q-table.
 
 ## JQTBrain Functions
